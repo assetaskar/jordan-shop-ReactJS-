@@ -1,0 +1,44 @@
+.image {
+   width: 100%;
+}
+
+.rec-carousel {
+   position: relative;
+}
+
+.rec-arrow-left,
+.rec-arrow-right {
+   position: absolute;
+   z-index: 1;
+}
+
+.rec-arrow-left {
+   left: 0;
+}
+
+.rec-arrow-right {
+   right: 0;
+}
+
+.rec {
+   &>button {
+      background-color: rgba(224, 224, 224, 0.5);
+
+      &:focus:enabled {
+         background-color: rgba(97, 96, 96, 0.5);
+      }
+
+      &:hover {
+         background-color: #1b1b1b !important;
+      }
+   }
+}
+
+.rec-pagination {
+
+   .rec-dot_active,
+   .rec-dot_active:hover,
+   .rec-dot_active:focus {
+      box-shadow: 0 0 1px 3px #000;
+   }
+}
