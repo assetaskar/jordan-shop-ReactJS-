@@ -1,0 +1,573 @@
+[
+	{
+		"colorway": [
+			{
+				"collectionImg": [
+					"/men/id1/1.webp",
+					"/men/id1/2.webp",
+					"/men/id1/3.webp",
+					"/men/id1/4.webp",
+					"/men/id1/5.webp",
+					"/men/id1/6.webp"
+				],
+				"colorName": "White/Hyper Royal/Gum Medium Brown/Black",
+				"minImg": "/men/id1/min.jpg",
+				"price": 180,
+				"sizes": [
+					{
+						"quantity": 0,
+						"size": "M 7.5 / W 9"
+					},
+					{
+						"quantity": 10,
+						"size": "M 8 / W 9.5"
+					},
+					{
+						"quantity": 7,
+						"size": "M 8.5 / W 10"
+					},
+					{
+						"quantity": 5,
+						"size": "M 9 / W 10.5"
+					},
+					{
+						"quantity": 9,
+						"size": "M 9.5 / W 11"
+					},
+					{
+						"quantity": 10,
+						"size": "M 10 / W 11.5"
+					},
+					{
+						"quantity": 15,
+						"size": "M 10.5 / W 12"
+					},
+					{
+						"quantity": 0,
+						"size": "M 11 / W 12.5"
+					}
+				]
+			}
+		],
+		"date": "2021-01-01T00:00:00.000Z",
+		"group": "men",
+		"id": 1,
+		"subtitle": "Basketball Shoe",
+		"sumReviews": 13,
+		"title": "Air Jordan XXXV \"Sisterhood\"",
+		"totalReviews": 3
+	},
+	{
+		"colorway": [
+			{
+				"collectionImg": [
+					"/men/id2/white/1.webp",
+					"/men/id2/white/2.webp",
+					"/men/id2/white/3.webp",
+					"/men/id2/white/4.webp"
+				],
+				"colorName": "White/Vast Grey/Black/White",
+				"minImg": "/men/id2/white/min.webp",
+				"price": 110,
+				"sizes": [
+					{
+						"quantity": 10,
+						"size": "7"
+					},
+					{
+						"quantity": 10,
+						"size": "7.5"
+					},
+					{
+						"quantity": 9,
+						"size": "8"
+					},
+					{
+						"quantity": 10,
+						"size": "8.5"
+					},
+					{
+						"quantity": 5,
+						"size": "9"
+					},
+					{
+						"quantity": 4,
+						"size": "9.5"
+					},
+					{
+						"quantity": 1,
+						"size": "10"
+					},
+					{
+						"quantity": 3,
+						"size": "10.5"
+					}
+				]
+			},
+			{
+				"collectionImg": [
+					"/men/id2/black/1.webp",
+					"/men/id2/black/2.webp",
+					"/men/id2/black/3.webp",
+					"/men/id2/black/4.jpg",
+					"/men/id2/black/5.webp",
+					"/men/id2/black/6.webp",
+					"/men/id2/black/7.webp",
+					"/men/id2/black/8.webp"
+				],
+				"colorName": "Dark Smoke Grey/Smoke Grey/Black/Total Orange",
+				"minImg": "/men/id2/black/min.webp",
+				"price": 120,
+				"sizes": [
+					{
+						"quantity": 10,
+						"size": "7"
+					},
+					{
+						"quantity": 10,
+						"size": "7.5"
+					},
+					{
+						"quantity": 9,
+						"size": "8"
+					},
+					{
+						"quantity": 10,
+						"size": "8.5"
+					},
+					{
+						"quantity": 5,
+						"size": "9"
+					},
+					{
+						"quantity": 4,
+						"size": "9.5"
+					},
+					{
+						"quantity": 0,
+						"size": "10"
+					},
+					{
+						"quantity": 3,
+						"size": "10.5"
+					}
+				]
+			}
+		],
+		"date": "2021-02-01T00:00:00.000Z",
+		"group": "men",
+		"id": 2,
+		"subtitle": "Men's Shoe",
+		"sumReviews": 26,
+		"title": "Jordan Air Cadence",
+		"totalReviews": 6
+	},
+	{
+		"colorway": [
+			{
+				"collectionImg": [
+					"/men/id3/1.webp",
+					"/men/id3/2.webp",
+					"/men/id3/3.webp",
+					"/men/id3/4.webp",
+					"/men/id3/5.webp",
+					"/men/id3/6.jpg",
+					"/men/id3/7.jpg",
+					"/men/id3/8.webp",
+					"/men/id3/9.webp",
+					"/men/id3/10.webp",
+					"/men/id3/11.webp",
+					"/men/id3/12.webp",
+					"/men/id3/13.jpg",
+					"/men/id3/14.webp",
+					"/men/id3/15.webp"
+				],
+				"colorName": "White/Psychic Purple/Hyper Pink/Black",
+				"minImg": "/men/id3/min.jpg",
+				"price": 140,
+				"sizes": [
+					{
+						"quantity": 10,
+						"size": "7"
+					},
+					{
+						"quantity": 10,
+						"size": "7.5"
+					},
+					{
+						"quantity": 9,
+						"size": "8"
+					},
+					{
+						"quantity": 10,
+						"size": "8.5"
+					},
+					{
+						"quantity": 5,
+						"size": "9"
+					},
+					{
+						"quantity": 4,
+						"size": "9.5"
+					},
+					{
+						"quantity": 1,
+						"size": "10"
+					},
+					{
+						"quantity": 3,
+						"size": "10.5"
+					}
+				]
+			}
+		],
+		"date": "2021-02-02T00:00:00.000Z",
+		"group": "men",
+		"id": 3,
+		"subtitle": "Men's Shoe",
+		"sumReviews": 0,
+		"title": "Air Jordan 1 Zoom Cmfrt x Paris Saint-Germain",
+		"totalReviews": 0
+	},
+	{
+		"colorway": [
+			{
+				"collectionImg": [
+					"/women/id1/1.webp",
+					"/women/id1/2.webp",
+					"/women/id1/3.webp",
+					"/women/id1/4.webp",
+					"/women/id1/5.webp",
+					"/women/id1/6.webp",
+					"/women/id1/7.jpg",
+					"/women/id1/8.jpg"
+				],
+				"colorName": "Sail/Fierce Purple/White/Hyper Pink",
+				"minImg": "/women/id1/min.webp",
+				"price": 130,
+				"sizes": [
+					{
+						"quantity": 10,
+						"size": "5"
+					},
+					{
+						"quantity": 10,
+						"size": "5.5"
+					},
+					{
+						"quantity": 9,
+						"size": "6"
+					},
+					{
+						"quantity": 10,
+						"size": "6.5"
+					},
+					{
+						"quantity": 5,
+						"size": "7"
+					},
+					{
+						"quantity": 4,
+						"size": "7.5"
+					},
+					{
+						"quantity": 1,
+						"size": "8"
+					},
+					{
+						"quantity": 3,
+						"size": "8.5"
+					},
+					{
+						"quantity": 0,
+						"size": "9"
+					},
+					{
+						"quantity": 3,
+						"size": "9.5"
+					},
+					{
+						"quantity": 4,
+						"size": "10"
+					},
+					{
+						"quantity": 10,
+						"size": "10.5"
+					},
+					{
+						"quantity": 3,
+						"size": "11"
+					},
+					{
+						"quantity": 10,
+						"size": "11.5"
+					},
+					{
+						"quantity": 3,
+						"size": "12"
+					}
+				]
+			}
+		],
+		"date": "2021-01-12T00:00:00.000Z",
+		"group": "women",
+		"id": 4,
+		"subtitle": "Women's Shoe",
+		"sumReviews": 10,
+		"title": "Jordan Delta Breathe",
+		"totalReviews": 2
+	},
+	{
+		"colorway": [
+			{
+				"collectionImg": [
+					"/women/id2/red/1.webp",
+					"/women/id2/red/2.webp",
+					"/women/id2/red/3.webp",
+					"/women/id2/red/4.webp",
+					"/women/id2/red/5.webp",
+					"/women/id2/red/6.webp",
+					"/women/id2/red/7.webp",
+					"/women/id2/red/8.webp"
+				],
+				"colorName": "Siren Red/Black/Total Orange/Blue Fury",
+				"minImg": "/women/id2/red/min.webp",
+				"price": 150,
+				"sizes": [
+					{
+						"quantity": 10,
+						"size": "5"
+					},
+					{
+						"quantity": 10,
+						"size": "5.5"
+					},
+					{
+						"quantity": 9,
+						"size": "6"
+					},
+					{
+						"quantity": 10,
+						"size": "6.5"
+					},
+					{
+						"quantity": 5,
+						"size": "7"
+					},
+					{
+						"quantity": 4,
+						"size": "7.5"
+					},
+					{
+						"quantity": 10,
+						"size": "8"
+					},
+					{
+						"quantity": 3,
+						"size": "8.5"
+					},
+					{
+						"quantity": 10,
+						"size": "9"
+					},
+					{
+						"quantity": 3,
+						"size": "9.5"
+					},
+					{
+						"quantity": 4,
+						"size": "10"
+					},
+					{
+						"quantity": 10,
+						"size": "10.5"
+					},
+					{
+						"quantity": 3,
+						"size": "11"
+					},
+					{
+						"quantity": 10,
+						"size": "11.5"
+					},
+					{
+						"quantity": 3,
+						"size": "12"
+					}
+				]
+			},
+			{
+				"collectionImg": [
+					"/women/id2/white/1.webp",
+					"/women/id2/white/2.webp",
+					"/women/id2/white/3.webp",
+					"/women/id2/white/4.webp",
+					"/women/id2/white/5.webp",
+					"/women/id2/white/6.webp",
+					"/women/id2/white/7.webp",
+					"/women/id2/white/8.webp"
+				],
+				"colorName": "White/Siren Red/University Gold/Black",
+				"minImg": "/women/id2/white/min.webp",
+				"price": 150,
+				"sizes": [
+					{
+						"quantity": 10,
+						"size": "5"
+					},
+					{
+						"quantity": 10,
+						"size": "5.5"
+					},
+					{
+						"quantity": 9,
+						"size": "6"
+					},
+					{
+						"quantity": 10,
+						"size": "6.5"
+					},
+					{
+						"quantity": 5,
+						"size": "7"
+					},
+					{
+						"quantity": 4,
+						"size": "7.5"
+					},
+					{
+						"quantity": 10,
+						"size": "8"
+					},
+					{
+						"quantity": 3,
+						"size": "8.5"
+					},
+					{
+						"quantity": 10,
+						"size": "9"
+					},
+					{
+						"quantity": 3,
+						"size": "9.5"
+					},
+					{
+						"quantity": 4,
+						"size": "10"
+					},
+					{
+						"quantity": 10,
+						"size": "10.5"
+					},
+					{
+						"quantity": 3,
+						"size": "11"
+					},
+					{
+						"quantity": 10,
+						"size": "11.5"
+					},
+					{
+						"quantity": 3,
+						"size": "12"
+					}
+				]
+			}
+		],
+		"date": "2021-02-12T00:00:00.000Z",
+		"group": "women",
+		"id": 5,
+		"subtitle": "Women's Shoe",
+		"sumReviews": 31,
+		"title": "Jordan Zoom '92",
+		"totalReviews": 7
+	},
+	{
+		"colorway": [
+			{
+				"collectionImg": [
+					"/women/id3/1.webp",
+					"/women/id3/2.webp",
+					"/women/id3/3.webp",
+					"/women/id3/4.webp",
+					"/women/id3/5.webp",
+					"/women/id3/6.webp",
+					"/women/id3/7.webp",
+					"/women/id3/8.webp"
+				],
+				"colorName": "White/Black/Neutral Grey/Hyper Blue",
+				"minImg": "/women/id3/min.webp",
+				"price": 190,
+				"sizes": [
+					{
+						"quantity": 10,
+						"size": "W 5 / M 3.5"
+					},
+					{
+						"quantity": 0,
+						"size": "W 5.5 / M 4"
+					},
+					{
+						"quantity": 0,
+						"size": "W 6 / M 4.5"
+					},
+					{
+						"quantity": 0,
+						"size": "W 6.5 / M 5"
+					},
+					{
+						"quantity": 0,
+						"size": "W 7 / M 5.5"
+					},
+					{
+						"quantity": 0,
+						"size": "W 7.5 / M 6"
+					},
+					{
+						"quantity": 0,
+						"size": "W 8 / M 6.5"
+					},
+					{
+						"quantity": 0,
+						"size": "W 8.5 / M 7"
+					},
+					{
+						"quantity": 0,
+						"size": "W 9 / M 7.5"
+					},
+					{
+						"quantity": 0,
+						"size": "W 9.5 / M 8"
+					},
+					{
+						"quantity": 0,
+						"size": "W 10 / M 8.5"
+					},
+					{
+						"quantity": 0,
+						"size": "W 10.5 / M 9"
+					},
+					{
+						"quantity": 0,
+						"size": "W 11 / M 9.5"
+					},
+					{
+						"quantity": 0,
+						"size": "W 11.5 / M 10"
+					},
+					{
+						"quantity": 0,
+						"size": "W 12 / M 10.5"
+					}
+				]
+			}
+		],
+		"date": "2021-01-05T00:00:00.000Z",
+		"group": "women",
+		"id": 6,
+		"subtitle": "Women's Shoe",
+		"sumReviews": 32,
+		"title": "Air Jordan 8 Retro",
+		"totalReviews": 7
+	}
+]

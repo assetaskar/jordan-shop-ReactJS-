@@ -18,7 +18,7 @@ class App extends React.Component {
 	}
 
 	componentDidMount() {
-		fetch("https://jordan-e2019-default-rtdb.firebaseio.com/jordan.json")
+		fetch("/db.json")
 			.then(response => response.json())
 			.then(data => this.setState({ db: data }))
 			.catch(error => console.log(error));
