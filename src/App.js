@@ -1,5 +1,5 @@
 import React from "react";
-import { Header, Home, Item, Cart } from "./containers/";
+import { Header, Home, Item, Cart } from "containers";
 import { BrowserRouter as Router, Switch, Route, Redirect } from "react-router-dom";
 
 import CssBaseline from "@material-ui/core/CssBaseline";

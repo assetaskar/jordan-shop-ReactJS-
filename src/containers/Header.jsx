@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
-import jordan from "../icons/jordan.svg";
+import jordan from "icons/jordan.svg";
 
 import { makeStyles } from "@material-ui/core/styles";
 import Box from "@material-ui/core/Box";
@@ -49,22 +49,13 @@ function Header({ length }) {
 				</Box>
 
 				<Box flexGrow="1" textAlign="center">
-					<NavLink
-						exact
-						to="/men"
-						activeClassName={classes.activeLink}
-						className={classes.link}
-					>
+					<NavLink exact to="/men" activeClassName={classes.activeLink} className={classes.link}>
 						<Button disableFocusRipple color="inherit">
 							Men
 						</Button>
 					</NavLink>
 
-					<NavLink
-						to="/women"
-						activeClassName={classes.activeLink}
-						className={classes.link}
-					>
+					<NavLink to="/women" activeClassName={classes.activeLink} className={classes.link}>
 						<Button disableFocusRipple color="inherit">
 							Women
 						</Button>

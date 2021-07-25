@@ -1,5 +1,5 @@
 import React from "react";
-import { Card } from "../components";
+import { Card } from "components";
 import { useHistory } from "react-router-dom";
 
 import Box from "@material-ui/core/Box";

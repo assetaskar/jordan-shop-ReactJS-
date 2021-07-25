@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import MinImg from "../ImagesCollection/MinImg";
+import MinImg from "components/ImagesCollection/MinImg";
 
 import { makeStyles } from "@material-ui/core/styles";
 import Card from "@material-ui/core/Card";
@@ -101,9 +101,7 @@ export default function CustomCard(props) {
 
 							{!isCollection && (
 								<Box component="div" className={classes.box} color="text.secondary">
-									{item.colorway.length > 1
-										? item.colorway.length + " Colors"
-										: "1 Color"}
+									{item.colorway.length > 1 ? item.colorway.length + " Colors" : "1 Color"}
 								</Box>
 							)}
 

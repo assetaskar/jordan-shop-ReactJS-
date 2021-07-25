@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams, useLocation } from "react-router-dom";
-import { MinImg, Button, Carousel } from "../components/";
+import { MinImg, Button, Carousel } from "components";
 
 import Container from "@material-ui/core/Container";
 import Grid from "@material-ui/core/Grid";
@@ -78,8 +78,7 @@ export default function Item({ db, addToBag }) {
 		}, []);
 
 	const width =
-		data &&
-		Math.max(...data.colorway[active].sizes.map(item => item.size.length)) * 8 + 24 + "px";
+		data && Math.max(...data.colorway[active].sizes.map(item => item.size.length)) * 8 + 24 + "px";
 
 	const imageClickHandler = e => {
 		setSize("");
@@ -116,11 +115,7 @@ export default function Item({ db, addToBag }) {
 						<Grid container spacing={1} alignItems="center">
 							{data.colorway[active].collectionImg.map((url, index) => (
 								<Grid item xs={6} key={index}>
-									<img
-										src={"../images" + url}
-										alt={"shoes" + index}
-										className={classes.img}
-									/>
+									<img src={"../images" + url} alt={"shoes" + index} className={classes.img} />
 								</Grid>
 							))}
 						</Grid>

@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Bag } from "../components";
+import { Button, Bag } from "components";
 
 import Container from "@material-ui/core/Container";
 import Grid from "@material-ui/core/Grid";
